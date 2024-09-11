@@ -24,11 +24,6 @@
 
 
 
-<p align="left"> 
-  <a href="https://twitter.com/sara_reda8" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sara_reda8?logo=twitter&style=for-the-badge" alt="sara_reda8" />
-  </a> 
-</p>
 
 - 🌱 I’m currently learning **Advanced AI, Next.js**
 - 👨‍💻 All of my projects are available at [SaraReda8.github.io](https://SaraReda8.github.io)
