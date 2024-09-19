@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sara Reda Moatamed</h1>
+<h1 align="center">Hi 👋, I'm Sara Reda </h1>
 <h3 align="center">AI Engineer & Frontend Developer</h3>
 
 
