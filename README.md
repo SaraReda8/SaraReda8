@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Reda</h1>
-<h3 align="center">AI Engineer & Frontend Developer</h3>
+<h3 align="center">AI Engineer & Frontend Developer(React js)</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -7,10 +7,6 @@
   </a>
 </p>
 
-<!-- Short Intro -->
-<p align="center">
-  AI Engineer | Frontend Developer (React.js)
-</p>
 
 ## 🌟 About Me
 - 🎓 Bachelor of Computer Science | AI Department September 2020 – June 2024
