@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sara Reda</h1>
-<h3 align="center">Data Analyst | AI Engineer | Frontend Developer (React.js)</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C3E6&height=180&section=header" width="100%" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=55&pause=1000&color=22C3E6&center=true&vCenter=true&width=500&height=80&lines=Sara+Eissa" alt="Sara Eissa" />
+</p>
+
+<h3 align="center">Data Analyst | AI Engineer</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&width=500&lines=Turning+Data+into+Insights;Building+AI+Solutions;Interactive+Web+Interfaces" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C3E6&center=true&width=500&lines=Building+AI+Solutions;From+Numbers+to+Decisions;Where+Data+Meets+Intelligence" alt="Typing SVG" />
   </a>
 </p>
 
 ## 🌟 About Me
 - 🎓 Bachelor of Computer Science | AI Department, Benha University (2020 – 2024)  
-- 📊 Data Analyst first, focusing on BI dashboards, SQL, Excel, Power BI, and data modeling  
-- 🤖 AI & ML experience with Python, TensorFlow, PyTorch, scikit-learn, NLP & CV projects  
-- 💻 Frontend developer with React.js, Next.js, TypeScript, Tailwind CSS & interactive UI/UX design  
-- 🌱 Currently learning **Generative AI, Advanced BI, and Three.js**  
-- 💡 Passionate about **data-driven decisions, AI-powered solutions, and clean, maintainable code**
+- 📊 Data Analyst, focusing on BI dashboards, SQL, Excel, Power BI, and data modeling  
+- 🤖 AI & ML practitioner with Python, TensorFlow, PyTorch, scikit-learn, NLP & CV projects  
+- 🌱 Currently exploring **Generative AI and Advanced BI**  
+- 💡 Passionate about turning raw data into clear insights and AI-powered solutions
+- 🛠️ Also comfortable building interactive interfaces with React.js when a project needs it
 
 ## 📫 Let's Connect
 <p align="center">
@@ -64,7 +69,7 @@
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
-### Frontend Development
+### Frontend & Development (Side Skills)
 <div>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -77,8 +82,6 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
-
-
 
 ### Tools & Others
 <div>
@@ -98,9 +101,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sarareda8&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=sarareda8&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sarareda8&theme=radical&margin-w=15" alt="GitHub Trophies" height="165" />
 </p>
 
 
 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=22C3E6&height=120&section=footer" width="100%" />
